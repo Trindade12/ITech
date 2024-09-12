@@ -10,7 +10,7 @@ function home(){
   <div id="navb" className="navbar-collapse collapse hide">
     <ul className="navbar-nav">
       <li className="nav-item active">
-        
+    
       </li>
      
     </ul>
